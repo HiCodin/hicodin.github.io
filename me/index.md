@@ -2,10 +2,10 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+Hello, My name is HiCodin.
 
 # What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+I am still learning to become a full-stack developer. I have a [Github](https://github.com/hicodin) account but nothing much is on it except for my vim and emacs configs.
 
 # What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+I use ```PHP```, ```Nodejs``` as of right now but learning ```Ruby``` to improve my programming skills. I love ```Python``` too.
